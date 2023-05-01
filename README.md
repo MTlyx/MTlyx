@@ -10,6 +10,6 @@ MTlyx/MTlyx is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hello, I’m @MTlyx and my nickname is Tlyx. (he/his)
+- 👋 Hello, I’m @MTlyx and my nickname is Tlyx. (he/him)
 - 🌍 I live in Paris
 - 👀 I’m interested in the cybersécurity 
