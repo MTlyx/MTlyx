@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi, I'm Tlyx !
 
-👀 Interested in cybersecurity  
+👀 I'm interested in cybersecurity  
 🌱 Just a French guy
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=MTlyx&theme=codeSTACKr&hide_border=false&hide=contribs)<br/>
